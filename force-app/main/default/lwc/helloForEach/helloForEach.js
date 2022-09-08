@@ -1,4 +1,3 @@
-import Manager from '@salesforce/schema/User.Manager';
 import { LightningElement } from 'lwc';
 
 export default class HelloForEach extends LightningElement {
