@@ -1,0 +1,12 @@
+h1 {
+    font-size: large;
+}
+
+:host {
+    display: block;
+    background: gray;
+}
+
+:host(.active) {
+    background-color: lightgray;
+}
